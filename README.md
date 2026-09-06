@@ -58,3 +58,5 @@ Divirta-se jogando Binário Fighter! 🎮✨
 [IMAGE 3](https://github.com/brunogsiq/Inventions_Projects_Tests/blob/master/C/Binario_Fighter/public/images/3.PNG)
 
 [IMAGE 4](https://github.com/brunogsiq/Inventions_Projects_Tests/blob/master/C/Binario_Fighter/public/images/4.PNG)
+
+Mensagem teste - Deverá ser apagada após documentação completa
